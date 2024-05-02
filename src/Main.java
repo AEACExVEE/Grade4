@@ -31,7 +31,7 @@ public class Main {
             }
             else {
                 System.out.println("grade 0");
-            }//4
+            }
 
     }
 }
